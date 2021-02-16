@@ -132,12 +132,13 @@
         
     -   **luego tendrás que editar el archivo /etc/cron.daily/backups-drive.sh**  
         nano /etc/cron.daily/backups-drive.sh
-        **cambiamos los parámetros  
+        
+        **cambiamos los parámetros**
           
-        #ESTO PUEDES EDITAR**  
+      **#ESTO PUEDES EDITAR**  
         EMUDIR= /tu_ruta/ #Edita la ruta de tu configuración  
         CARPETA=Emuladora #Edita el nombre de la carpeta si quieres que sea distinta  
         REMOTE=google-drive #CAMBIA google-drive POR EL NOMBRE QUE PUSISTE EN EL PASO 1
-5.  **Si todo salio bien el sistema realizara backups diarios en tu cuenta de Drive cualquier duda puedes consultar en este hilo*
+5.  **Si todo salio bien el sistema realizara backups diarios en tu cuenta de Drive cualquier duda puedes consultar en este hilo**
 
 
