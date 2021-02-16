@@ -1,6 +1,4 @@
-
-
-#!/bin/bash
+#!/bin/sh
 
 #ESTO PUEDES EDITAR
 EMUDIR=/tu_ruta/ #Edita la ruta de tu configuraci�n
