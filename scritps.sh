@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #ESTO PUEDES EDITAR
 EMUDIR= /tu_ruta/ #Edita la ruta de tu configuracion
 CARPETA=Emuladora #Edita el nombre de la carpeta si quieres que sea distinta
