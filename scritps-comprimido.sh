@@ -3,7 +3,7 @@
 #ESTO PUEDES EDITAR
 EMUDIR=/tu_ruta/ #Edita la ruta de tu configuraci�n
 CARPETA=Emuladora #Edita el nombre de la carpeta si quieres que sea distinta
-REMOTE=google-drive #CAMBIA google-drive POR EL NOMBRE QUE PUSISTE EN EL PASO 1
+REMOTE=Google-drive #CAMBIA google-drive POR EL NOMBRE QUE PUSISTE EN EL PASO 1
 
 
 #NO EDITAR NI TOCAR
